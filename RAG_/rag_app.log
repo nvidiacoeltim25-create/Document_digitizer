@@ -1,0 +1,107 @@
+2025-10-28 12:48:44.807 | INFO     | __main__:<module>:26 - FastAPI app starting
+2025-10-28 12:51:34.304 | INFO     | __main__:rag_chatbot:80 - Processing query: settlement agreement made by Western Union company date
+2025-10-28 12:51:34.305 | INFO     | __main__:retrieve:57 - Retrieving context for query: settlement agreement made by Western Union company date
+2025-10-28 12:51:38.173 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 12:51:40.914 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 12:51:44.334 | INFO     | __main__:rag_chatbot:80 - Processing query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 12:51:44.335 | INFO     | __main__:retrieve:57 - Retrieving context for query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 12:51:45.738 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 12:51:46.902 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:01:46.132 | INFO     | __main__:rag_chatbot:80 - Processing query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 13:01:46.133 | INFO     | __main__:retrieve:57 - Retrieving context for query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 13:01:49.218 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:01:50.660 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:01:52.718 | INFO     | __main__:rag_chatbot:80 - Processing query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 13:01:52.719 | INFO     | __main__:retrieve:57 - Retrieving context for query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 13:01:55.574 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:01:57.666 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:01:59.590 | INFO     | __main__:rag_chatbot:80 - Processing query: Western Union settlement agreement date
+2025-10-28 13:01:59.590 | INFO     | __main__:retrieve:57 - Retrieving context for query: Western Union settlement agreement date
+2025-10-28 13:02:01.361 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:02:02.801 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:09:20.384 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 13:09:20.384 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 13:09:23.178 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:09:25.733 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:11:47.997 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 13:11:47.997 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 13:11:49.325 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:11:52.185 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:15:19.427 | INFO     | __main__:<module>:26 - FastAPI app starting
+2025-10-28 13:15:37.645 | INFO     | __main__:rag_chatbot_endpoint:112 - Received request at /rag-chatbot endpoint
+2025-10-28 13:15:37.645 | INFO     | __main__:rag_chatbot_endpoint:114 - Received query: When was the settlement agreement made?
+2025-10-28 13:15:37.645 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 13:15:37.645 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 13:15:38.872 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:15:43.249 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:15:43.249 | INFO     | __main__:rag_chatbot:102 - Returning response from logic fn as : <class 'str'>
+2025-10-28 13:15:43.249 | INFO     | __main__:rag_chatbot:103 - Response content from logic fn: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:15:43.251 | INFO     | __main__:rag_chatbot_endpoint:116 - Returning response from endpoint as : <class 'str'>
+2025-10-28 13:15:43.252 | INFO     | __main__:rag_chatbot_endpoint:117 - Response content: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:17:49.235 | INFO     | __main__:<module>:26 - FastAPI app starting
+2025-10-28 13:18:29.809 | INFO     | __main__:rag_chatbot_endpoint:112 - Received request at /rag-chatbot endpoint
+2025-10-28 13:18:29.810 | INFO     | __main__:rag_chatbot_endpoint:114 - Received query: When was the settlement agreement made?
+2025-10-28 13:18:29.810 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 13:18:29.810 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 13:18:32.359 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:18:33.349 | ERROR    | __main__:rag_chatbot:106 - LLM request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-28 13:18:33.349 | INFO     | __main__:rag_chatbot_endpoint:116 - Returning response from endpoint as : <class 'str'>
+2025-10-28 13:18:33.350 | INFO     | __main__:rag_chatbot_endpoint:117 - Response content: LLM error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-28 13:18:33.350 | ERROR    | __main__:rag_chatbot_endpoint:120 - Error in endpoint: 'dict' object has no attribute 'json'
+2025-10-28 13:21:56.939 | INFO     | __main__:<module>:26 - FastAPI app starting
+2025-10-28 13:22:01.047 | INFO     | __main__:rag_chatbot_endpoint:114 - Received request at /rag-chatbot endpoint
+2025-10-28 13:22:01.048 | INFO     | __main__:rag_chatbot_endpoint:116 - Received query: When was the settlement agreement made?
+2025-10-28 13:22:01.048 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 13:22:01.048 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 13:22:03.326 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:22:05.319 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:22:05.319 | INFO     | __main__:rag_chatbot:102 - Returning response from logic fn as : <class 'str'>
+2025-10-28 13:22:05.319 | INFO     | __main__:rag_chatbot:103 - Response content from logic fn: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:22:05.321 | INFO     | __main__:rag_chatbot_endpoint:118 - Returning response from endpoint as : <class 'str'>
+2025-10-28 13:22:05.321 | INFO     | __main__:rag_chatbot_endpoint:119 - Response content: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:23:01.031 | INFO     | __main__:rag_chatbot_endpoint:114 - Received request at /rag-chatbot endpoint
+2025-10-28 13:23:01.031 | INFO     | __main__:rag_chatbot_endpoint:116 - Received query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 13:23:01.032 | INFO     | __main__:rag_chatbot:80 - Processing query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 13:23:01.032 | INFO     | __main__:retrieve:57 - Retrieving context for query: What was the date of the settlement agreement made by Western Union company?
+2025-10-28 13:23:03.498 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:23:04.783 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:23:04.783 | INFO     | __main__:rag_chatbot:102 - Returning response from logic fn as : <class 'str'>
+2025-10-28 13:23:04.783 | INFO     | __main__:rag_chatbot:103 - Response content from logic fn: January 2017
+2025-10-28 13:23:04.785 | INFO     | __main__:rag_chatbot_endpoint:118 - Returning response from endpoint as : <class 'str'>
+2025-10-28 13:23:04.785 | INFO     | __main__:rag_chatbot_endpoint:119 - Response content: January 2017
+2025-10-28 13:26:59.531 | INFO     | __main__:rag_chatbot_endpoint:114 - Received request at /rag-chatbot endpoint
+2025-10-28 13:26:59.531 | INFO     | __main__:rag_chatbot_endpoint:116 - Received query: date of settlement agreement made by Western Union company
+2025-10-28 13:26:59.531 | INFO     | __main__:rag_chatbot:80 - Processing query: date of settlement agreement made by Western Union company
+2025-10-28 13:26:59.532 | INFO     | __main__:retrieve:57 - Retrieving context for query: date of settlement agreement made by Western Union company
+2025-10-28 13:27:03.076 | WARNING  | __main__:retrieve:61 - NVIDIA embedding failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Using fallback.
+2025-10-28 13:27:03.076 | ERROR    | __main__:rag_chatbot_endpoint:124 - Error in endpoint: name 'SentenceTransformer' is not defined
+2025-10-28 13:31:12.927 | INFO     | __main__:rag_chatbot_endpoint:114 - Received request at /rag-chatbot endpoint
+2025-10-28 13:31:12.927 | INFO     | __main__:rag_chatbot_endpoint:116 - Received query: When was the settlement agreement made?
+2025-10-28 13:31:12.928 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 13:31:12.928 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 13:31:14.269 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:31:15.847 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:31:15.847 | INFO     | __main__:rag_chatbot:102 - Returning response from logic fn as : <class 'str'>
+2025-10-28 13:31:15.847 | INFO     | __main__:rag_chatbot:103 - Response content from logic fn: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:31:15.849 | INFO     | __main__:rag_chatbot_endpoint:118 - Returning response from endpoint as : <class 'str'>
+2025-10-28 13:31:15.849 | INFO     | __main__:rag_chatbot_endpoint:119 - Response content: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:32:38.412 | INFO     | __main__:rag_chatbot_endpoint:114 - Received request at /rag-chatbot endpoint
+2025-10-28 13:32:38.412 | INFO     | __main__:rag_chatbot_endpoint:116 - Received query: When was the settlement agreement made?
+2025-10-28 13:32:38.412 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 13:32:38.412 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 13:32:40.049 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:32:43.086 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:32:43.086 | INFO     | __main__:rag_chatbot:102 - Returning response from logic fn as : <class 'str'>
+2025-10-28 13:32:43.086 | INFO     | __main__:rag_chatbot:103 - Response content from logic fn: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:32:43.088 | INFO     | __main__:rag_chatbot_endpoint:118 - Returning response from endpoint as : <class 'str'>
+2025-10-28 13:32:43.089 | INFO     | __main__:rag_chatbot_endpoint:119 - Response content: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:33:23.974 | INFO     | __main__:rag_chatbot_endpoint:114 - Received request at /rag-chatbot endpoint
+2025-10-28 13:33:23.974 | INFO     | __main__:rag_chatbot_endpoint:116 - Received query: When was the settlement agreement made?
+2025-10-28 13:33:23.974 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 13:33:23.974 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 13:33:25.268 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 13:33:26.959 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 13:33:26.960 | INFO     | __main__:rag_chatbot:102 - Returning response from logic fn as : <class 'str'>
+2025-10-28 13:33:26.960 | INFO     | __main__:rag_chatbot:103 - Response content from logic fn: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.
+2025-10-28 13:33:26.961 | INFO     | __main__:rag_chatbot_endpoint:118 - Returning response from endpoint as : <class 'str'>
+2025-10-28 13:33:26.962 | INFO     | __main__:rag_chatbot_endpoint:119 - Response content: The settlement agreement was made in January 2017, as indicated in the letter from Western Union.

@@ -1,0 +1,16 @@
+FILE: Straight Duct - D3 PNG.png
+RESULT:
+```json
+[
+    {
+        "fitting number": "CDT134",
+        "qty": "4",
+        "D1 duct dia": "41",
+        "L1 duct length": "4",
+        "D1 ring type": "47",
+        "D2 ring type": "25",
+        "remarks": "B1 B1"
+    }
+]
+```
+

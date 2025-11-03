@@ -1,0 +1,24 @@
+# Core dependencies
+python-dotenv==1.0.1
+requests==2.32.3
+pymilvus==2.4.5
+sentence-transformers==3.2.1
+
+# NVIDIA NV-Ingest framework and client 
+nv-ingest-framework==0.3.0
+nv-ingest==25.9.0 
+nv-ingest-api==25.9.0 
+nv-ingest-client==25.9.0 
+
+
+# Logging and utilities
+ray==2.34.0
+protobuf==4.25.3
+loguru
+
+# Optional: If Milvus local SQLite mode is used
+sqlite-utils==3.36.0
+milvus-lite==2.4.12
+
+# For typing and development
+typing-extensions==4.12.2

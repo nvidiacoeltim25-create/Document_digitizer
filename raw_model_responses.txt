@@ -1,0 +1,164 @@
+3-PG 44 JPG.png:
+[
+  {
+    "FITTING NUMBER": "PAL-332",
+    "QTY": "10",
+    "PART NUMBER": "RC04",
+    "DESCRIPTION": "4\" (101.6) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "LAP-43",
+    "QTY": "12",
+    "PART NUMBER": "RC06",
+    "DESCRIPTION": "6\" (152.4) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "PAL-36",
+    "QTY": "13",
+    "PART NUMBER": "RC08",
+    "DESCRIPTION": "8\" (203.2) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "LAT-06",
+    "QTY": "4",
+    "PART NUMBER": "RC10",
+    "DESCRIPTION": "10\" (254.0) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "",
+    "QTY": "",
+    "PART NUMBER": "RC12",
+    "DESCRIPTION": "12\" (304.8) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "",
+    "QTY": "",
+    "PART NUMBER": "RC14",
+    "DESCRIPTION": "14\" (355.6) DIA. - STAINLESS STEEL CAST RING"
+  }
+]
+
+1-PG 44 JPG.png:
+[
+  {
+    "FITTING NUMBER": "Q2432",
+    "QTY": "1",
+    "PART NUMBER": "RC04",
+    "DESCRIPTION": "4\" (101.6) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "P3126",
+    "QTY": "2",
+    "PART NUMBER": "RC06",
+    "DESCRIPTION": "6\" (152.4) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "APM-12",
+    "QTY": "3",
+    "PART NUMBER": "RC08",
+    "DESCRIPTION": "8\" (203.2) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "ZAK-12",
+    "QTY": "4",
+    "PART NUMBER": "RC10",
+    "DESCRIPTION": "10\" (254.0) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "",
+    "QTY": "",
+    "PART NUMBER": "RC12",
+    "DESCRIPTION": "12\" (304.8) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "",
+    "QTY": "",
+    "PART NUMBER": "RC14",
+    "DESCRIPTION": "14\" (355.6) DIA. - STAINLESS STEEL CAST RING"
+  }
+]
+
+2-PG 49 JPG.png:
+[
+  {
+    "FITTING NUMBER": "HAT-123",
+    "QTY": "4",
+    "PART NUMBER": "GAS03*",
+    "DESCRIPTION": "FOR 32\" (812.8) - 120\" (3048.0) DIA ROUND AND RECTANGULAR DUCT"
+  },
+  {
+    "FITTING NUMBER": "TAH-23",
+    "QTY": "3",
+    "PART NUMBER": "GAS09*",
+    "DESCRIPTION": "FOR 4\" (101.6) - 14\" (355.6) EZ JOINTS & 4\" (101.6) - 30\" (762.0) ROUND DUCT"
+  }
+]
+
+3-PG 49 JPG.png:
+[
+  {
+    "FITTING NUMBER": "WAS-42",
+    "QTY": "6",
+    "PART NUMBER": "GAS03*",
+    "DESCRIPTION": "FOR 32\" (812.8) - 120\" (3048.0) DIA ROUND AND RECTANGULAR DUCT"
+  },
+  {
+    "FITTING NUMBER": "SAW-6",
+    "QTY": "6",
+    "PART NUMBER": "GAS09*",
+    "DESCRIPTION": "FOR 4\" (101.6) - 14\" (355.6) EZ JOINTS & 4\" (101.6) - 30\" (762.0) ROUND DUCT"
+  }
+]
+
+Straight Duct - D3 JPG.png:
+[
+  {
+    "FITTING NUMBER": "CDT134-4",
+    "QTY": "4",
+    "DUCT DIA": "4\"",
+    "DUCT LENGTH": "47.25",
+    "RING TYPE": "BI",
+    "REMARKS": ""
+  }
+]
+
+2-PG 44 JPG.png:
+[
+  {
+    "FITTING NUMBER": "KAZ-K01",
+    "QTY": "2",
+    "PART NUMBER": "RC04",
+    "DESCRIPTION": "4\" (101.6) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "KA-M0",
+    "QTY": "3",
+    "PART NUMBER": "RC06",
+    "DESCRIPTION": "6\" (152.4) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "KA-L1",
+    "QTY": "6",
+    "PART NUMBER": "RC08",
+    "DESCRIPTION": "8\" (203.2) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "",
+    "QTY": "",
+    "PART NUMBER": "RC10",
+    "DESCRIPTION": "10\" (254.0) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "",
+    "QTY": "",
+    "PART NUMBER": "RC12",
+    "DESCRIPTION": "12\" (304.8) DIA. - STAINLESS STEEL CAST RING"
+  },
+  {
+    "FITTING NUMBER": "",
+    "QTY": "",
+    "PART NUMBER": "RC14",
+    "DESCRIPTION": "14\" (355.6) DIA. - STAINLESS STEEL CAST RING"
+  }
+]
+

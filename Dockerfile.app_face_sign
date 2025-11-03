@@ -1,0 +1,12 @@
+FROM continuumio/miniconda3
+
+WORKDIR /app
+
+COPY . /app
+COPY conda_envs/comparison.yml /app/comparison.yml
+COPY config.json /app/config.json
+
+RUN conda env create -f comparison.yml
+ENV PATH /opt/conda/envs/comparison/bin:$PATH
+
+CMD ["python", "mcp_client/app_face_sign.py"]

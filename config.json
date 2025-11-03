@@ -1,0 +1,8 @@
+{
+    "version": "1.0.1",
+    "platform": "huggingface",
+    "nvidia_model": "meta/llama-3.2-90b-vision-instruct",
+    "fetch_email_link": "",
+    "LINK": "",
+    "huggingface_model": "accounts/fireworks/models/llama4-maverick-instruct-basic"
+}

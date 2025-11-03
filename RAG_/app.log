@@ -1,0 +1,66 @@
+2025-10-28 10:15:55.527 | INFO     | __main__:<module>:27 - Application started
+2025-10-28 10:41:25.696 | INFO     | __main__:<module>:23 - Application started
+2025-10-28 10:41:25.697 | INFO     | __main__:<module>:85 - Ensuring Milvus collection exists
+2025-10-28 10:41:25.699 | INFO     | __main__:<module>:90 - Running chatbot for query: Who signed the document?
+2025-10-28 10:41:25.699 | INFO     | __main__:rag_chatbot:56 - Processing query: Who signed the document?
+2025-10-28 10:41:25.699 | INFO     | __main__:retrieve:33 - Retrieving context for query: Who signed the document?
+2025-10-28 10:41:28.291 | INFO     | __main__:retrieve:48 - Retrieved 5 results
+2025-10-28 10:41:32.139 | INFO     | __main__:rag_chatbot:77 - LLM response received successfully
+2025-10-28 10:57:22.540 | INFO     | __main__:<module>:23 - Application started
+2025-10-28 10:57:22.541 | INFO     | __main__:<module>:85 - Ensuring Milvus collection exists
+2025-10-28 10:57:44.843 | INFO     | __main__:<module>:95 - Running chatbot for user query: When was the agreement signed?
+2025-10-28 10:57:44.843 | INFO     | __main__:rag_chatbot:56 - Processing query: When was the agreement signed?
+2025-10-28 10:57:44.844 | INFO     | __main__:retrieve:33 - Retrieving context for query: When was the agreement signed?
+2025-10-28 10:57:47.012 | INFO     | __main__:retrieve:48 - Retrieved 5 results
+2025-10-28 10:57:49.711 | INFO     | __main__:rag_chatbot:77 - LLM response received successfully
+2025-10-28 10:58:22.278 | INFO     | __main__:<module>:95 - Running chatbot for user query: when was the agree ment signed
+2025-10-28 10:58:22.279 | INFO     | __main__:rag_chatbot:56 - Processing query: when was the agree ment signed
+2025-10-28 10:58:22.279 | INFO     | __main__:retrieve:33 - Retrieving context for query: when was the agree ment signed
+2025-10-28 10:58:25.339 | INFO     | __main__:retrieve:48 - Retrieved 5 results
+2025-10-28 10:58:26.873 | INFO     | __main__:rag_chatbot:77 - LLM response received successfully
+2025-10-28 10:58:35.081 | INFO     | __main__:<module>:92 - Exiting application
+2025-10-28 11:01:39.773 | INFO     | __main__:<module>:23 - Application started
+2025-10-28 11:01:39.773 | INFO     | __main__:<module>:85 - Ensuring Milvus collection exists
+2025-10-28 11:01:51.764 | INFO     | __main__:<module>:95 - Running chatbot for user query: Who signed the agreement?
+2025-10-28 11:01:51.764 | INFO     | __main__:rag_chatbot:56 - Processing query: Who signed the agreement?
+2025-10-28 11:01:51.765 | INFO     | __main__:retrieve:33 - Retrieving context for query: Who signed the agreement?
+2025-10-28 11:01:52.501 | INFO     | __main__:retrieve:48 - Retrieved 5 results
+2025-10-28 11:01:54.474 | INFO     | __main__:rag_chatbot:77 - LLM response received successfully
+2025-10-28 11:02:32.740 | INFO     | __main__:<module>:92 - Exiting application
+2025-10-28 12:04:22.009 | INFO     | __main__:<module>:30 - FastAPI Application started
+2025-10-28 12:05:26.852 | INFO     | __main__:<module>:30 - FastAPI Application started
+2025-10-28 12:07:10.908 | INFO     | __main__:<module>:30 - FastAPI Application started
+2025-10-28 12:08:32.263 | INFO     | __mp_main__:<module>:30 - FastAPI Application started
+2025-10-28 12:08:32.263 | INFO     | __mp_main__:<module>:44 - Successfully connected to Milvus at /home/sneha-ltim/abrav/Document_Digitizer_backend/RAG_/milvus_rag.db
+2025-10-28 12:08:47.490 | INFO     | __mp_main__:<module>:30 - FastAPI Application started
+2025-10-28 12:08:47.490 | INFO     | __mp_main__:<module>:44 - Successfully connected to Milvus at /home/sneha-ltim/abrav/Document_Digitizer_backend/RAG_/milvus_rag.db
+2025-10-28 12:09:08.481 | INFO     | __mp_main__:<module>:30 - FastAPI Application started
+2025-10-28 12:09:08.482 | INFO     | __mp_main__:<module>:44 - Successfully connected to Milvus at /home/sneha-ltim/abrav/Document_Digitizer_backend/RAG_/milvus_rag.db
+2025-10-28 12:09:46.528 | INFO     | __mp_main__:<module>:30 - FastAPI Application started
+2025-10-28 12:09:46.529 | INFO     | __mp_main__:<module>:44 - Successfully connected to Milvus at /home/sneha-ltim/abrav/Document_Digitizer_backend/RAG_/milvus_rag.db
+2025-10-28 12:10:55.206 | INFO     | __mp_main__:<module>:30 - FastAPI Application started
+2025-10-28 12:11:22.990 | INFO     | __mp_main__:<module>:30 - FastAPI Application started
+2025-10-28 12:11:50.450 | INFO     | __main__:<module>:30 - FastAPI Application started
+2025-10-28 12:14:01.883 | INFO     | __mp_main__:<module>:25 - FastAPI app starting
+2025-10-28 12:14:10.038 | INFO     | __mp_main__:<module>:25 - FastAPI app starting
+2025-10-28 12:15:16.194 | INFO     | __main__:<module>:25 - FastAPI app starting
+2025-10-28 12:15:44.105 | INFO     | __main__:<module>:25 - FastAPI app starting
+2025-10-28 12:16:43.596 | INFO     | __main__:<module>:25 - FastAPI app starting
+2025-10-28 12:21:43.328 | INFO     | __main__:<module>:25 - FastAPI app starting
+2025-10-28 12:22:58.557 | INFO     | __main__:<module>:25 - FastAPI app starting
+2025-10-28 12:23:19.438 | INFO     | __main__:<module>:25 - FastAPI app starting
+2025-10-28 12:24:24.843 | INFO     | __main__:<module>:26 - FastAPI app starting
+2025-10-28 12:25:29.795 | INFO     | __main__:<module>:26 - FastAPI app starting
+2025-10-28 12:25:57.009 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 12:25:57.009 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 12:26:00.293 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 12:26:02.069 | ERROR    | __main__:rag_chatbot:104 - LLM request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-28 12:26:19.553 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 12:26:19.553 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 12:26:22.191 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 12:26:25.042 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully
+2025-10-28 12:27:54.312 | INFO     | __main__:<module>:26 - FastAPI app starting
+2025-10-28 12:27:59.568 | INFO     | __main__:rag_chatbot:80 - Processing query: When was the settlement agreement made?
+2025-10-28 12:27:59.568 | INFO     | __main__:retrieve:57 - Retrieving context for query: When was the settlement agreement made?
+2025-10-28 12:28:01.273 | INFO     | __main__:retrieve:72 - Retrieved 5 results
+2025-10-28 12:28:04.214 | INFO     | __main__:rag_chatbot:101 - LLM response received successfully

@@ -1,0 +1,18 @@
+FROM continuumio/miniconda3
+
+WORKDIR /app
+
+COPY . /app
+COPY conda_envs/verification.yml /app/verification.yml
+COPY config.json /app/config.json
+
+RUN conda env create -f verification.yml
+
+
+# RUN conda env create -f verification.yml && \
+#     conda run -n verification pip install --upgrade pip && \
+#     conda run -n verification pip check
+
+ENV PATH /opt/conda/envs/verification/bin:$PATH
+
+CMD ["python", "apis.py"]

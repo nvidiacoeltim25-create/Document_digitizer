@@ -1,0 +1,279 @@
+FILE: 3-PG 44 PNG.png
+RESULT:
+```json
+[
+    {
+        "fitting number": "PAL-332",
+        "qty": "10",
+        "part number": "RC04",
+        "description": "4\" (101.6) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "4 (101.6)",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "LAP-431",
+        "qty": "12",
+        "part number": "RC06",
+        "description": "6\" (152.4) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "6 (152.4)",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "PAL-361",
+        "qty": "13",
+        "part number": "RC08",
+        "description": "8\" (203.2) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "8 (203.2)",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "LAT-061",
+        "qty": "14",
+        "part number": "RC10",
+        "description": "10\" (254.0) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "10 (254.0)",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "",
+        "qty": "",
+        "part number": "RC12",
+        "description": "12\" (304.8) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "12 (304.8)",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "",
+        "qty": "",
+        "part number": "RC14",
+        "description": "14\" (355.6) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "14 (355.6)",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    }
+]
+```
+
+FILE: 1-PG 44 PNG.png
+RESULT:
+```json
+[
+    {
+        "fitting number": "Q2432",
+        "qty": "1",
+        "part number": "RC04",
+        "description": "4\" (101.6) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "P3126",
+        "qty": "1",
+        "part number": "RC06",
+        "description": "6\" (152.4) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "AEM-1213",
+        "qty": "3",
+        "part number": "RC08",
+        "description": "8\" (203.2) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "ZAK-121",
+        "qty": "1",
+        "part number": "RC10",
+        "description": "10\" (254.0) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "",
+        "qty": "",
+        "part number": "RC12",
+        "description": "12\" (304.8) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "",
+        "qty": "",
+        "part number": "RC14",
+        "description": "14\" (355.6) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    }
+]
+```
+
+FILE: 2-PG 49 PNG.png
+RESULT:
+```json
+[
+    {
+        "fitting number": "HAT-123",
+        "qty": "4",
+        "part number": "GAS03",
+        "description": "FOR 32\" (812.8) - 120\" (3048.0) DIA ROUND AND RECTANGULAR DUCT",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "TAH-231",
+        "qty": "3",
+        "part number": "GAS09",
+        "description": "FOR 4\" (101.6) - 14\" (355.6) EJ JOINTS & 4\" (101.6) - 30\" (762.0) ROUND DUCT",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    }
+]
+```
+
+FILE: 3-PG 49 PNG.png
+RESULT:
+```json
+[
+    {
+        "fitting number": "WAS-42",
+        "qty": "6",
+        "part number": "GAS03*",
+        "description": "FOR 32\" (812.8) - 120\" (3048.0) DIA ROUND AND RECTANGULAR DUCT",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "SAW-6",
+        "qty": "6",
+        "part number": "GAS09*",
+        "description": "FOR 4\" (101.6) - 14\" (355.6) EZ JOINTS & 4\" (101.6) - 30\" (762.0) ROUND DUCT",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    }
+]
+```
+
+FILE: 2-PG 44 PNG.png
+RESULT:
+```json
+[
+    {
+        "fitting number": "KAZ-K0612",
+        "qty": "1",
+        "part number": "RC04",
+        "description": "4'' (101.6) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "KSA-M013",
+        "qty": "1",
+        "part number": "RC06",
+        "description": "6'' (152.4) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "KLA-C1616",
+        "qty": "1",
+        "part number": "RC08",
+        "description": "8'' (203.2) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "",
+        "qty": "1",
+        "part number": "RC10",
+        "description": "10'' (254.0) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "",
+        "qty": "1",
+        "part number": "RC12",
+        "description": "12'' (304.8) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    },
+    {
+        "fitting number": "",
+        "qty": "1",
+        "part number": "RC14",
+        "description": "14'' (355.6) DIA. - STAINLESS STEEL CAST RING",
+        "D1 duct dia": "",
+        "L1 duct length": "",
+        "D1 ring type": "",
+        "D2 ring type": ""
+    }
+]
+```
+
+FILE: Straight Duct - D3 PNG.png
+RESULT:
+```json
+[
+    {
+        "fitting number": "CDT134",
+        "qty": "4",
+        "part number": "4",
+        "description": "4\"",
+        "D1 duct dia": "47",
+        "L1 duct length": "47",
+        "D1 ring type": "25",
+        "D2 ring type": "B1 B1"
+    }
+]
+```
+
+
+CONFIDENCE: {'fitting number': 1.0, 'qty': 1.0, 'part number': 1.0, 'description': 0.9999, 'D1 duct dia': 0.9999, 'L1 duct length': 1.0, 'D1 ring type': 1.0, 'D2 ring type': 1.0}
+CONFIDENCE: {'fitting number': 1.0, 'qty': 0.9985, 'part number': 1.0, 'description': 0.9996, 'D1 duct dia': 1.0, 'L1 duct length': 1.0, 'D1 ring type': 1.0, 'D2 ring type': 1.0}
+CONFIDENCE: {'fitting number': 0.0871, 'qty': 1.0, 'part number': 0.9997, 'description': 0.0551, 'D1 duct dia': 1.0, 'L1 duct length': 1.0, 'D1 ring type': 1.0, 'D2 ring type': 1.0}
+CONFIDENCE: {'fitting number': 0.9656, 'qty': 1.0, 'part number': 0.9999, 'description': 0.9797, 'D1 duct dia': 1.0, 'L1 duct length': 1.0, 'D1 ring type': 1.0, 'D2 ring type': 1.0}
+CONFIDENCE: {'fitting number': 1.0, 'qty': 0.9995, 'part number': 1.0, 'description': 0.9978, 'D1 duct dia': 1.0, 'L1 duct length': 1.0, 'D1 ring type': 1.0, 'D2 ring type': 1.0}
+CONFIDENCE: {'fitting number': 0.3441, 'qty': 0.9827, 'part number': 0.1207, 'description': 0.4713, 'D1 duct dia': 0.3061, 'L1 duct length': 0.3373, 'D1 ring type': 0.7723, 'D2 ring type': 0.2978}

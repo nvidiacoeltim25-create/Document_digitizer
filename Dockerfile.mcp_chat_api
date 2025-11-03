@@ -1,0 +1,12 @@
+FROM continuumio/miniconda3
+
+WORKDIR /app
+
+COPY . /app
+COPY conda_envs/ddmcpenv.yml /app/ddmcpenv.yml
+COPY config.json /app/config.json
+
+RUN conda env create -f ddmcpenv.yml
+ENV PATH /opt/conda/envs/ddmcpenv/bin:$PATH
+
+CMD ["python", "ml_face_sign_client/mcp_chat_api.py"]
