@@ -1,4 +1,4 @@
-name: ddmcpenv
+name: ddmcpenv_dd
 channels:
   - defaults
 dependencies:
@@ -184,4 +184,8 @@ dependencies:
       - xxhash==3.5.0
       - yarl==1.20.0
       - zstandard==0.23.0
-prefix: /home/ujjwal-ltim/miniconda3/envs/ddmcpenv
+      - llm_confidence==0.2.3
+      - azure-communication-email==1.1.0 
+      - isodate==0.7.2
+      - python-multipart==0.0.20
+prefix: C:\Users\sneha\anaconda3\envs

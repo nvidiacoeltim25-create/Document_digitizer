@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  apis:
+    build:
+      context: .
+      dockerfile: Dockerfile.apis
+    ports:
+      - "8003:8003"
+    depends_on:
+      - app_face_sign
+      - mcp_chat_api
+      - mongodb
+    volumes:
+      - /home/ujjwal-ltim/ujjwal/computershare/email_st:/app/email_st
+
+  app_face_sign:
+    build:
+      context: .
+      dockerfile: Dockerfile.app_face_sign
+    ports:
+      - "8087:8087"
+    depends_on:
+      - mongodb
+    volumes:
+      - /home/ujjwal-ltim/ujjwal/computershare/email_st:/app/email_st
+
+
+  mcp_chat_api:
+    build:
+      context: .
+      dockerfile: Dockerfile.mcp_chat_api
+    ports:
+      - "8002:8002"
+    depends_on:
+      - mongodb
+    volumes:
+      - /home/ujjwal-ltim/ujjwal/computershare/email_st:/app/email_st
+
+volumes:
+  mongo_data:
