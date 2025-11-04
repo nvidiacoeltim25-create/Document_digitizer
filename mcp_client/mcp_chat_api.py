@@ -15,9 +15,9 @@ from langchain_openai import ChatOpenAI
 
 from models.models import ChatRequest, Response
 
-from utils.constants import OPENAI_API_KEY, OPENAI_MODEL
+from utils.constants import OPENAI_API_KEY_MCP, OPENAI_MODEL
 
-os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
+os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY_MCP
 
 app = FastAPI()
 
